@@ -7,8 +7,8 @@
 
 ## 🟡 In Progress
 
-- [howto-useradmin](https://github.com/gasbrieo/howto-useradmin)  
-  Admin API for managing users with roles and restrictions
+- [howto-useradmin-dotnet](https://github.com/gasbrieo/howto-useradmin-dotnet)  
+  Admin API for managing users with roles and restrictions (.NET 9)
 
 ## 🔜 Planned
 
